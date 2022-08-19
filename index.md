@@ -1,6 +1,6 @@
 Hello my name is Shuma.
 
-## Welcome to GitHub Pages
+## Hello my name is Shuma
 
 You can use the [editor on GitHub](https://github.com/ShumaFuji/computer-science/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
